@@ -13,67 +13,68 @@ Tôi là một kỹ sư SysOps/DevOps với niềm đam mê tự động hóa, t
 **Cloud Platforms:**
 
 *   \[x] AWS (EC2, S3, RDS, Lambda, IAM, CloudFormation...)
-*   \[x] Google Cloud Platform (Compute Engine, Cloud Storage, Cloud SQL, Cloud Functions, IAM, Deployment Manager...)
+*   \[ ] Google Cloud Platform (Compute Engine, Cloud Storage, Cloud SQL, Cloud Functions, IAM, Deployment Manager...)
 *   \[x] Azure (Virtual Machines, Blob Storage, Azure SQL Database, Azure Functions, Azure Active Directory, Resource Manager...)
 *   ...
 
 **Containerization & Orchestration:**
 
-*   \[] Docker
-*   \[] Kubernetes
-*   \[] Docker Swarm
-*   \[] ... (Thêm các công cụ khác nếu có)
+*   \[x] Docker
+*   \[x] Kubernetes
+*   \[x] Docker Swarm
+*   \[ ] ...
 
 **Infrastructure as Code (IaC):**
 
-*   \[] Terraform
-*   \[] Ansible
-*   \[] CloudFormation
-*   \[] ... (Thêm các công cụ khác nếu có)
+*   \[x] Terraform
+*   \[ ] Ansible
+*   \[x] CloudFormation
+*   \[ ] ...
 
 **CI/CD:**
 
-*   \[] Jenkins
-*   \[] GitLab CI/CD
-*   \[] CircleCI
-*   \[] Azure DevOps
-*   \[] ... (Thêm các công cụ khác nếu có)
+*   \[x] Jenkins
+*   \[x] GitLab CI/CD
+*   \[ ] CircleCI
+*   \[ ] Azure DevOps
+*   \[ ] ...
 
 **Monitoring & Logging:**
 
-*   \[] Prometheus
-*   \[] Grafana
-*   \[] ELK Stack (Elasticsearch, Logstash, Kibana)
-*   \[] Datadog
-*   \[] ... (Thêm các công cụ khác nếu có)
+*   \[ ] Prometheus
+*   \[ ] Grafana
+*   \[x] ELK Stack (Elasticsearch, Logstash, Kibana)
+*   \[x] Datadog
+*   \[ ] ...
 
 **Scripting & Programming:**
 
-*   \[] Bash
-*   \[] Python
-*   \[] Go
-*   \[] ... (Thêm các ngôn ngữ khác nếu có)
+*   \[x] Bash
+*   \[x] Python
+*   \[ ] Go
+*   \[x] Rust
+*   \[ ] ...
 
 **Operating Systems:**
 
-*   \[] Linux (Ubuntu, CentOS, Debian...)
-*   \[] Windows Server
-*   \[] ... (Thêm các hệ điều hành khác nếu có)
+*   \[x] Linux (Ubuntu, CentOS, Debian...)
+*   \[x] Windows Server
+*   \[ ] ...
 
 **Databases:**
 
-*   \[] MySQL
-*   \[] PostgreSQL
-*   \[] MongoDB
-*   \[] Redis
-*   \[] ... (Thêm các database khác nếu có)
+*   \[x] MySQL
+*   \[x] PostgreSQL
+*   \[x] MongoDB
+*   \[ ] Redis
+*   \[ ] ... 
 
 **Other:**
 
-*   \[] Git
-*   \[] Nginx
-*   \[] Apache
-*   \[] ... (Thêm các kỹ năng khác nếu có)
+*   \[x] Git
+*   \[x] Nginx
+*   \[x] Apache
+*   \[ ] ...
 
 **Note:** Điền `[x]` vào `[]` trước mỗi kỹ năng mà bạn thành thạo. Để trống `[]` nếu bạn chỉ biết sơ qua hoặc đang học.
 
@@ -86,9 +87,9 @@ Tôi là một kỹ sư SysOps/DevOps với niềm đam mê tự động hóa, t
 
 ## 📫 Liên hệ
 
-*   **Email:** [Địa chỉ email của bạn]
-*   **LinkedIn:** [Link LinkedIn của bạn]
-*   **Website/Blog:** [Link website/blog của bạn (nếu có)]
+*   **Email:**
+*   **LinkedIn:**
+*   **Website/Blog:** 
 
 
 </details>
